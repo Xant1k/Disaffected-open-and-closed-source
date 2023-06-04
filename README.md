@@ -1,2 +1,7 @@
-# Disaffected-open-and-closed-source
-Интернет всё помнит
+Здесь я буду вести список недружественных России разработчиков. Использование их софта может быть потенциально опасным для россиян живущих в Великой России.
+
+№1. Claws Mail (banner)
+
+![opera_7E07ctpxQE](https://github.com/Xant1k/Disaffected-open-and-closed-source/assets/15319266/15a69032-31ca-4467-90d5-77946d8c2578)
+
+Интернет всё помнит!
